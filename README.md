@@ -89,7 +89,7 @@
 class SyedImranShah:
     name       = "Syed Imran Shah"
     location   = "Karachi, Pakistan 🇵🇰"
-    business   = "AlSyed Autoparts"
+    role       = "Founder, NEXA AI"
     education  = "MBA (HRM) — Karachi University"
     currently  = "Building NEXA — AI Desktop Agent"
     fiverr     = "syedio"

@@ -22,27 +22,28 @@
 
 ---
 
-## 🚀 Featured Project — NEXA
+## 🚀 Featured Project — NEXA-AI
 
-<div align="center">
+<a href="https://github.com/Imranshah19/NEXA-AI">
+  <img align="right" width="280" src="https://github.com/Imranshah19/NEXA-AI/raw/main/assets/NEXA_v3_main.svg" alt="NEXA-AI"/>
+</a>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   NEXA — Next Execution Assistant                        ║
-║   AI Desktop Agent that SEES · THINKS · ACTS             ║
-╠══════════════════════════════════════════════════════════╣
-║   ⬡ Screen Vision via OCR + Screenshots                  ║
-║   ⬡ Autonomous Mouse & Keyboard Control                  ║
-║   ⬡ Claude AI Brain for intelligent decisions            ║
-║   ⬡ WhatsApp integration for remote control              ║
-║   ⬡ Kill Switch (Ctrl+Shift+X) for instant stop          ║
-║   ⬡ Learning system that remembers your preferences      ║
-╚══════════════════════════════════════════════════════════╝
+### [NEXA-AI](https://github.com/Imranshah19/NEXA-AI) — Autonomous Desktop Agent
+
+An AI agent that **SEES** your screen, **THINKS** with Claude API,
+and **EXECUTES** tasks — with your approval.
+
+```python
+# One line to start NEXA-AI
+python nexa_main.py
 ```
 
-[![NEXA Repo](https://img.shields.io/badge/View_NEXA_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imranshah19/NEXA)
+**Tech:** Python • PyQt6 • Claude API • OpenCV • PyAutoGUI
+**Platform:** Windows 11
 
-</div>
+🌐 [Live Demo](https://imranshah19.github.io/NEXA-AI) &nbsp;|&nbsp; ⭐ [Star it](https://github.com/Imranshah19/NEXA-AI)
+
+[![NEXA-AI](https://img.shields.io/badge/View_NEXA--AI-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imranshah19/NEXA-AI)
 
 ---
 

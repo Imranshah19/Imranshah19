@@ -1,5 +1,6 @@
-<h1 align="center">Syed Imran Shah</h1>
-<h3 align="center">AI-Powered HR Professional · HR-Tech / HRMS Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:22D3EE&height=200&section=header&text=Syed%20Imran%20Shah&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20HR%20Professional%20%C2%B7%20HR-Tech%20Developer&descSize=20&descAlignY=60&descColor=e0f2fe" />
+</p>
 <p align="center">
   Bridging <b>10+ years of HR management</b> with <b>full-stack AI development</b> — building HR systems that actually ship.
 </p>

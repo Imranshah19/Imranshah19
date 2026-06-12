@@ -59,7 +59,9 @@ Today I build **production-grade HR technology**. Most HR software is built by e
 </p>
 
 ---
+---
 
+<p align="center"><i>🌍 Open to opportunities in UAE & Germany · Let's build the future of HR tech together.</i></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:2563EB&height=120&section=footer" />
 </p>
